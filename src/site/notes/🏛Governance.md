@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/governance/"}
 ---
 
-A curated collection of governance-related resources.
+A curated collection of governance-related resources...
 
 <div style="width:100%; height:200px; overflow:hidden; position: relative;">
   <img src="_assets/your-image-file.jpeg" 
